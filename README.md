@@ -1,7 +1,7 @@
 
 <h2 align="center">
  ShanGrila template<br/>
-  <a href="https://verdant-paletas-1a1ae8.netlify.app" target="_blank">ShanGrila</a>
+  <a href="https://baraa660.github.io/ShanGrila/" target="_blank">ShanGrila</a>
 </h2>
 
 <P align="center">ShanGrila - Food &amp; Resturant HTML Template Preview</P>
